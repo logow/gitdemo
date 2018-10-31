@@ -1,3 +1,2 @@
 Git is a version control system
-Git is free software
-xxxxx:woegow
+Git is free software distributed under GLP
